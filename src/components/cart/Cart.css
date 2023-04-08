@@ -1,0 +1,12 @@
+.cart{
+    background-color: #da8e1ca9;
+    padding: 23px;
+   position: sticky;
+   top:0; 
+}
+.cart p{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+}
