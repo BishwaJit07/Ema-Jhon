@@ -10,3 +10,16 @@ font-style: normal;
 font-weight: 400;
 font-size: 17px;
 }
+.clear-cart{
+    width: 421px;
+height: 56px;
+background: #FF3030;
+border-radius: 4px;
+}
+
+.procced-cart{
+    width: 421px;
+    height: 56px;
+    background: #FF9900;
+    border-radius: 4px;
+}

@@ -11,6 +11,7 @@ import Login from './components/Inventory/Login/Login';
 
 import { RouterProvider,createBrowserRouter } from 'react-router-dom'
 import CartProductsLoader from './Loaders/CartProductsLoaders'
+import ChekoutPage from './components/ChekoutPage/ChekoutPage'
 
 
 function App() {
@@ -36,6 +37,10 @@ function App() {
         {
           path:'/login',
           element:<Login/>
+        },
+        {
+          path:'/chekOut',
+          element:<ChekoutPage/>
         },
       ]
     },
